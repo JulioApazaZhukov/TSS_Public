@@ -18,9 +18,8 @@ body {
 
 .candle-shadow {
     /* position: relative; */
-    /* margin-left: 50%; */
-    text-align: center;
-    justify-content: center;
+    margin-left: 45%;
+    /* justify-content: center; */
     margin-top: -110%;
     height: 125px;
     width: 3px;
